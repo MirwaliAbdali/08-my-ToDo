@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  color: #333;
+  position: relative;
+}
+
+.header {
+  background: #f5ba13;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+
+.dark {
+  background: #333;
+  color: #fff;
+}
+
+.footer {
+  position: absolute;
+  bottom: -550px;
+  left: 700px;
+}
